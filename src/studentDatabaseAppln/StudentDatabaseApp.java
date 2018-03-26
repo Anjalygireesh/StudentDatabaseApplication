@@ -1,5 +1,9 @@
 package studentDatabaseAppln;
 
+/*
+ * Need to create an application to manage student enrolment and balance
+ * 
+ *  */
 import java.util.Scanner;
 
 public class StudentDatabaseApp {
